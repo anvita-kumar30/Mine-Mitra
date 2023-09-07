@@ -1,15 +1,6 @@
 {
   "intents": 
   [
-    {
-      "tag": "SIH",
-      "patterns": [
-        "Describe Fatima"
-      ],
-      "responses": [
-        "She is the most beautiful person in the world..My owner Nikhil feels very lucky to have her. He speaks about her all the time."
-      ]
-    },
 
     {
       "tag": "greeting",
@@ -383,6 +374,5 @@
           "If your employer does not comply with the Payment of Wages (Mines) Rules, 1956, you can file a complaint with the labor authorities or the appropriate regulatory body. Legal action can be taken against non-compliant employers."
         ]
       }
-      
   ]
 }
