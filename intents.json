@@ -356,7 +356,7 @@
       ]
     },
     {
-      "tag": "Q1",
+      "tag": "Q01Anvita",
       "patterns": [
         "When was the Indian Explosives Act found?",
         "What year was the Indian Explosives Act founded in?",
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "tag": "Q2",
+      "tag": "Q02Anvita",
       "patterns": ["What is the Indian Explosives Act, 1884?"],
       "responses": [
         "The Indian Explosives Act, 1884 is a piece of legislation enacted by the British colonial government in India during the late 19th century. This act primarily deals with the regulation and control of explosives and certain dangerous substances in India. Its main purpose is to ensure the safe manufacture, possession, storage, sale, and use of explosives and to prevent accidents, misuse, and unauthorized activities related to explosives."
@@ -376,7 +376,7 @@
     },
 
     {
-      "tag": "Q3",
+      "tag": "Q03Anvita",
       "patterns": [
         "Who is responsible for enforcing the provisions of the Indian Explosives Act, 1884?",
         "Who are the responsible persons and entities under the Indian Explosives Act, 1884?",
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "tag": "Q4",
+      "tag": "Q04Anvita",
       "patterns": [
         "What is the primary objective of the Indian Explosives Act, 1884?",
         "What are the key objectives of the Indian Explosives Act, 1884, and how does it aim to achieve them?",
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "tag": "Q5",
+      "tag": "Q05Anvita",
       "patterns": [
         "What are the different categories of explosives covered by the Indian Explosives Act, 1884?",
         "Can you provide a detailed breakdown of the various categories of explosives and their characteristics as defined by the Indian Explosives Act, 1884?"
@@ -408,7 +408,7 @@
       ]
     },
     {
-      "tag": "Q6",
+      "tag": "Q06Anvita",
       "patterns": [
         "What safety measures and precautions are mandated by the Indian Explosives Act, 1884, to prevent accidents and mishandling of explosives?",
         "Could you provide an overview of the safety protocols and guidelines specified in the Indian Explosives Act, 1884, to ensure the responsible handling of explosives?",
@@ -420,7 +420,7 @@
       ]
     },
     {
-      "tag": "Q7",
+      "tag": "Q07Anvita",
       "patterns": [
         "How does the Indian Explosives Act, 1884, address the transportation of explosives within India?",
         "How does the Indian Explosives Act, 1884, regulate the transportation of explosives between states and regions within India?",
@@ -432,7 +432,7 @@
       ]
     },
     {
-      "tag": "Q8",
+      "tag": "Q08Anvita",
       "patterns": [
         "What penalties and legal consequences are specified for violations of the Indian Explosives Act, 1884?"
       ],
@@ -441,14 +441,14 @@
       ]
     },
     {
-      "tag": "Q9",
+      "tag": "Q09Anvita",
       "patterns": ["How does the act address the storage of explosives?"],
       "responses": [
         "The Indian Explosives Act, 1884, addresses the storage of explosives by imposing stringent regulations and safety measures to ensure the secure and responsible handling of these hazardous materials. It mandates that explosives must be stored in designated storage areas, constructed and maintained to meet strict safety standards, often isolated from other facilities and equipped with blast-resistant structures. Licensing and permits are required for those intending to store explosives, outlining specific conditions and quantity limits. Approved containers and packaging materials must be used to prevent accidental detonation, leakage, or contamination. Storage areas and containers are clearly labeled and marked with safety warnings. Security measures, including fencing, surveillance, and access control, deter unauthorized access. Regular inspections by appointed authorities ensure compliance, and emergency response plans address incidents. By regulating storage comprehensively, the act aims to prevent accidents, theft, and unauthorized access, prioritizing the safety of individuals and the environment."
       ]
     },
     {
-      "tag": "Q10",
+      "tag": "Q10Anvita",
       "patterns": [
         "What historical context led to the formulation of the Indian Explosives Act, 1884?"
       ],
@@ -579,7 +579,7 @@
       ]
     },
     {
-      "tag": "Q1",
+      "tag": "QPratham01",
       "patterns": 
       [
         "What are the Colliery Control Rules, 2004?"
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "tag": "Q2",
+      "tag": "QPratham02",
       "patterns": 
       [
         "Why were the Colliery Control Rules, 2004, introduced?"
@@ -601,7 +601,7 @@
       ]
     },
     {
-      "tag": "Q3",
+      "tag": "QPratham03",
       "patterns": 
       [
         "Who is responsible for enforcing the Colliery Control Rules, 2004?"
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "tag": "Q4",
+      "tag": "QPratham04",
       "patterns": 
       [
         "What are the key objectives of these rules?"
@@ -623,7 +623,7 @@
       ]
     },
     {
-      "tag": "Q5",
+      "tag": "QPratham05",
       "patterns": 
       [
         "What types of coal mines do these rules apply to?"
@@ -634,7 +634,7 @@
       ]
     },
     {
-      "tag": "Q6",
+      "tag": "QPratham06",
       "patterns": 
       [
         "What safety measures are mandated by the Colliery Control Rules, 2004?"
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "tag": "Q7",
+      "tag": "QPratham07",
       "patterns": 
       [
         "How often are safety inspections conducted in coal mines under these rules?"
@@ -656,7 +656,7 @@
       ]
     },
     {
-      "tag": "Q8",
+      "tag": "QPratham08",
       "patterns": 
       [
         "What are the penalties for non-compliance with these rules?"
@@ -667,7 +667,7 @@
       ]
     },
     {
-      "tag": "Q9",
+      "tag": "QPratham09",
       "patterns": 
       [
         "How are accidents and incidents reported and investigated under these rules?"
@@ -678,7 +678,7 @@
       ]
     },
     {
-      "tag": "Q10",
+      "tag": "QPratham10",
       "patterns": 
       [
         "What safety equipment and gear are required for coal mine workers?"
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "tag": "Q11",
+      "tag": "QPratham11",
       "patterns": 
       [
         "Are there specific rules for ventilation and dust control in coal mines?"
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "tag": "Q12",
+      "tag": "QPratham12",
       "patterns": 
       [
         "What are the provisions for the transportation of coal within the mine?"
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "tag": "Q13",
+      "tag": "QPratham13",
       "patterns": 
       [
         "How are explosives and blasting operations regulated under these rules?"
@@ -722,7 +722,7 @@
       ]
     },
     {
-      "tag": "Q14",
+      "tag": "QPratham14",
       "patterns": 
       [
         "Are there guidelines for emergency response and rescue operations in case of accidents?"
@@ -733,7 +733,7 @@
       ]
     },
     {
-      "tag": "Q15",
+      "tag": "QPratham15",
       "patterns": 
       [
         "How does the Colliery Control Rules, 2004, address environmental concerns related to mining activities?"
@@ -744,7 +744,7 @@
       ]
     },
     {
-      "tag": "Q16",
+      "tag": "QPratham16",
       "patterns": 
       [
         "Are there any provisions for rehabilitation and compensation for affected communities?"
@@ -755,7 +755,7 @@
       ]
     },
     {
-      "tag": "Q17",
+      "tag": "QPratham17",
       "patterns": 
       [
         "What is the process for obtaining licenses and permissions for coal mining operations?"
@@ -766,7 +766,7 @@
       ]
     },
     {
-      "tag": "Q18",
+      "tag": "QPratham18",
       "patterns": 
       [
         "Are there specific rules for the management and disposal of coal mine waste and tailings?"
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "tag": "Q19",
+      "tag": "QPratham19",
       "patterns": 
       [
         "How can mine operators stay updated on any amendments or changes to these rules?"
@@ -788,7 +788,7 @@
       ]
     },
     {
-      "tag": "Q20",
+      "tag": "QPratham20",
       "patterns": 
       [
         "What steps can be taken to ensure the health and well-being of coal mine workers as per these rules?"
